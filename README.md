@@ -7,4 +7,4 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 ## Fall 2017 Lehigh Students
 #### With a total of 5,075 undergraduate students enrolled at Lehigh University, this is an infographic about the geographic distribution of students.
 
-![Lehigh Data Infographic](https://www.canva.com/design/DACt5Jaouvk/m58_CL7r--NbAdpQTmqjaw/view?utm_content=DACt5Jaouvk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![Lehigh Data Infographic](https://media-private.canva.com/MACt5GOd1sY/1/screen.jpg?response-expires=Mon%2C%2029%20Jan%202018%2022%3A47%3A32%20GMT&AWSAccessKeyId=AKIAJJATJK7JCUD446NA&Expires=1517266052&Signature=a0zHzbMSfKrl%2FdNMORkrKgVuf68%3D)

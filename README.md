@@ -14,6 +14,6 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 
 
 ## Distance Students Travel to College
-### Data of 350,000 U.S. high school graduates from 2014 shows that the majority of students chose to attend colleges close to home.  It's statistically rare to travel more than 100 miles to attend college.
+#### Data from 350,000 U.S. high school graduates from 2014 shows that the majority of students chose to attend colleges close to home.  It's statistically rare to travel more than 100 miles to attend college.
 
 ![College Distance Data](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/How%20far%20do%20you%20travel%20for%20college_.png?raw=true)

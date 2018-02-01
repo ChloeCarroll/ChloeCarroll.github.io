@@ -1,2 +1,4 @@
-remote_theme: minimal-mistakes-jekyll
-_layouts
+theme: jekyll-theme-cayman
+
+title: [Chloe Carroll: Data Visualization]
+description: [This site will consist of projects done for my Spring 2018 Data Visualization course]

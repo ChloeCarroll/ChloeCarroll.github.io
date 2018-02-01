@@ -18,9 +18,11 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 
 ![College Distance Data](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/How%20far%20do%20you%20travel%20for%20college_.png?raw=true)
 
-
+## 2016 Rio Olympics Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KjLql1a1Pa0QeVZGXc9mvsyPScYDzvYPb1EGijUKUTw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## "Hamilton" Timeline
+#### This is a brief history and timeline of the musical sensation "Hamilton: An American Musical" written by Lin-Manuel Miranda. The show is now touring the country, as well as still on Broadway. Over winter break, I finally got the chance to go see it for myself in Los Angeles, after years of listening to the soundtrack.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qhQkuTfN5P19l5kFndkGTJkci8imhv16b0xgli7WX2o&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>

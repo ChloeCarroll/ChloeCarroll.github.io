@@ -34,3 +34,5 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 ![Lehigh 10 Year Enrollment](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Lehigh_University_Enrollment_Over_Ten_Years_Arts_&_Sciences_Business__Engineering_chartbuilder.png?raw=true)
 
 
+## Percentage of Female Congress Members Since 1981
+![Female Congress Members](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Percentage_of_Female_Congress_Members_U.S._House_of_Reps._U.S._Senate_chartbuilder.png?raw=true)

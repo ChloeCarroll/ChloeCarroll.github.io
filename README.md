@@ -30,5 +30,7 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 ## 2016 Lehigh University Undergraduate Enrollment
 ![Lehigh Undergrad Enrollment by College](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2016_2016_%25_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
+## 10 Years of Enrollment at Lehigh
+![Lehigh 10 Year ](Enrollment]https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Lehigh_University_Enrollment_Over_Ten_Years_Arts_&_Sciences_Business__Engineering_chartbuilder.png?raw=true)
 
 

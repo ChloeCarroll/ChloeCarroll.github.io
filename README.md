@@ -35,4 +35,5 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 
 
 ## Percentage of Female Congress Members Since 1981
+#### The U.S. Congress currently has 535 members in the House of Representatives and Senate combined; 100 are in the Senate, and 435 are in the House.  Less than 25 percent of members are female, even though they constitute about half of the U.S. population.  The United States has a long way to go in terms of equality.
 ![Female Congress Members](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Percentage_of_Female_Congress_Members_U.S._House_of_Reps._U.S._Senate_chartbuilder.png?raw=true)

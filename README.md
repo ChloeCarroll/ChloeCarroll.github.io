@@ -44,4 +44,4 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 
 ## Must Visit Cupcake Shops in the U.S.
 
-<iframe width="550" height="350" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WY_g9ptePWOncR4l7flndEvOjKsurAiyA-GOAcBW&amp;viz=MAP&amp;h=false&amp;lat=39.38132905318954&amp;lng=-94.99080340167228&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="700" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WY_g9ptePWOncR4l7flndEvOjKsurAiyA-GOAcBW&amp;viz=MAP&amp;h=false&amp;lat=39.38132905318954&amp;lng=-94.99080340167228&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>

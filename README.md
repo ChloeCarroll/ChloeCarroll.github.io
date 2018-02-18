@@ -42,6 +42,6 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 ## Local Arts Centers
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1syZF1mgUyxetQUdV-M9N_E-6waMnhKn-XCBfNnG3&amp;viz=MAP&amp;h=false&amp;lat=40.61009266006649&amp;lng=-75.37142949046017&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-## Must Go-To Cupcake Shops in the U.S.
+## Must Visit Cupcake Shops in the U.S.
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WY_g9ptePWOncR4l7flndEvOjKsurAiyA-GOAcBW&amp;viz=MAP&amp;h=false&amp;lat=39.38132905318954&amp;lng=-94.99080340167228&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="550" height="350" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WY_g9ptePWOncR4l7flndEvOjKsurAiyA-GOAcBW&amp;viz=MAP&amp;h=false&amp;lat=39.38132905318954&amp;lng=-94.99080340167228&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>

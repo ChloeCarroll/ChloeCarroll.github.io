@@ -41,9 +41,9 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 
 ## Local Arts Centers
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1syZF1mgUyxetQUdV-M9N_E-6waMnhKn-XCBfNnG3&amp;viz=MAP&amp;h=false&amp;lat=40.61009266006649&amp;lng=-75.37142949046017&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
-
+<br>
 ## Must Visit Cupcake Shops in the U.S.
-#### I love cupcakes and love watching food-related shows like "Cupcake Wars." Specialty cupcake shops have been popping up across the country for years and continue to be popular.  Here are just some of the best cupcake shops in the U.S. My decision to highlight these specific shops came from reading this article in the Food & Wine magazine online. The lis can be found [here](http://www.foodandwine.com/slideshows/best-cupcakes-us#1). The cupcake shops on my map and not on this list came from my own knowledge of popular stores. The photos were found using Google Image search.
+#### I love cupcakes and love watching food-related shows like "Cupcake Wars." Specialty cupcake shops have been popping up across the country for years and continue to be popular.  Here are just some of the best cupcake shops in the U.S. My decision to highlight these specific shops came from reading this article in the Food & Wine magazine online. The list can be found [here](http://www.foodandwine.com/slideshows/best-cupcakes-us#1). The cupcake shops on my map and not on this list came from my own knowledge of popular stores. The photos were found using Google Image search.
 <iframe width="700" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+14jca94CNgshjdNNZ6rm1-gNGbUYW_goqTUhfvgzr&amp;viz=MAP&amp;h=false&amp;lat=55.32804279251582&amp;lng=-98.21387449999997&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 <br>
 <br>

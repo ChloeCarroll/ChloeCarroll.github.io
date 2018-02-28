@@ -25,11 +25,6 @@ Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qhQkuTfN5P19l5kFndkGTJkci8imhv16b0xgli7WX2o&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## 2016 Lehigh University Undergraduate Enrollment
-![Lehigh Undergrad Enrollment by College](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2016_2016_%25_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
-
-## 10 Years of Enrollment at Lehigh
-![Lehigh 10 Year Enrollment](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Lehigh_University_Enrollment_Over_Ten_Years_Arts_&_Sciences_Business__Engineering_chartbuilder.png?raw=true)
 <br>
 <br>
 ## Percentage of Female Congress Members Since 1981

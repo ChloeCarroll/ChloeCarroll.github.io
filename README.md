@@ -3,11 +3,12 @@ My name is Chloe Carroll and I am a sophomore at Lehigh University.  I'm from Lo
 Here is my [LinkedIn Page](https://www.linkedin.com/in/chloe-carroll-b050b4140/).
 
  ![Profile Photo](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Github%20propic.png?raw=true)
-
+<br>
+<br>
 ## My Story
 This is a brief introduction of myself and my life at Lehigh.
 
-<iframe src="//www.pixton.com/embed/202uv9wt"frameborder="0"width="100%"height="384"allowfullscreen></iframe>
+<iframe src="https://www.pixton.com/embed/202uv9wt"frameborder="0"width="100%"height="384"allowfullscreen></iframe>
 <br>
 <br>
 

@@ -11,14 +11,6 @@ This is a brief introduction of myself and my life at Lehigh.
 ![Comic Strip](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Comic%20strip:%20My%20story.png?raw=true)
 <br>
 <br>
-
-## Fall 2017 Lehigh Students
-With a total of 5,075 undergraduate students enrolled at Lehigh University, this is an infographic about the geographic distribution of students.
-
-![Lehigh Data Infographic](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Lehigh%20Data%20Infographic.png?raw=true)
-
-
-
 ## Distance Students Travel to College
 Data from 350,000 U.S. high school graduates from 2014 shows that the majority of students chose to attend colleges close to home.  It's statistically rare to travel more than 100 miles to attend college.
 

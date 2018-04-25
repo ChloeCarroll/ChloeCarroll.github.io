@@ -50,4 +50,9 @@ The inagural Greek Unity Concert was held on April 12 on the UC Front Lawn. It w
 <br>
 <br>
 ## Adobe Photoshop Practice
-[Multiple Joy's](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Multiple%20Joys%20with%20frame%20CC.jpg)
+![Multiple Joy's](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/Multiple%20Joys%20with%20frame%20CC.jpg)
+<br>
+<br>
+## InDesign Practice
+About me page
+![About Me Layout](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/About%20me.jpg)

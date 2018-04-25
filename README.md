@@ -43,3 +43,7 @@ I have watched the Academy Awards every year since I can remember.  It was alway
 <br>
 ## Event Photos
 The inagural Greek Unity Concert was held on April 12 on the UC Front Lawn. It was a joint effort between the Panhellenic and Interfraternity Councils to promote unity among Greek life on campus after a number of chapters lost university recognition.  There was free food and t-shirts, as well as performances from student groups. 
+![Event Photo 1](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/IMG-4900%20(1)%20(1).JPG)
+![Event Photo 2](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/IMG-4899%20(1)%20(1).JPG)
+![Event Photo 3](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/IMG-4897%20(1)%20(1).JPG)
+![Event Photo 4](https://github.com/ChloeCarroll/ChloeCarroll.github.io/blob/master/IMG-4891%20(1).JPG)
